@@ -334,3 +334,16 @@ curl http://localhost:8000/api/sources/health
 Built for the **AWS AI for Bharat Hackathon**.
 
 Named after **Narad Muni** — the divine messenger in Hindu mythology who travels across realms carrying news and wisdom.
+
+## Developers
+
+- **Er. Ayush Gourav**
+- **Er. Ujjwal Chaudhary**
+
+## License & Copyright
+
+© 2026 Er. Ayush Gourav & Er. Ujjwal Chaudhary
+
+All rights reserved.
+
+This project contains proprietary technology. Unauthorized redistribution or derivative work is prohibited without written permission.
